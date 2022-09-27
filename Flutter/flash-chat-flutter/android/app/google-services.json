@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80641030519",
+    "project_id": "flash-chat-54ca3",
+    "storage_bucket": "flash-chat-54ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80641030519:android:f0667d3cfc42b9b3ccc972",
+        "android_client_info": {
+          "package_name": "co.cybermania.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80641030519-t9j985b4qr6hdulfnh13dhrtg3bvi2a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA76xRTjZKis803LDn8ZC0jysI1P5r0B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80641030519-t9j985b4qr6hdulfnh13dhrtg3bvi2a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
